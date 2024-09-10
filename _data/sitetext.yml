@@ -21,8 +21,8 @@ en: &DEFAULT_EN
     text: "미니언즈와 바나나"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "바나나 상점"
+        desc: "미니언즈를 위한 바나나 상점 미니언에게만 단돈 100원에 바나나 한개를 팔아요!!"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
