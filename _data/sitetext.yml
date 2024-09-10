@@ -24,10 +24,10 @@ en: &DEFAULT_EN
       - title: "바나나 상점"
         desc: "미니언즈를 위한 바나나 상점 미니언에게만 단돈 100원에 바나나 한개를 팔아요!!"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "미니언 역사"
+        desc: "일루미네이션 엔터테인먼트가 제작하고, 유니버설 픽처스가 배급하는 세계적인 히트작 《슈퍼배드》 시리즈의 스핀오프인 작품.[1] 또한, 《슈퍼배드》 시리즈의 프리퀄로서 미니언의 기원을 다룬다. 슈퍼배드 시리즈의 마스코트인 미니언들을 주인공으로 다룬 장편 애니메이션이다."
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+      - title: "[역사 더보기](https://namu.wiki/w/%EB%AF%B8%EB%8B%88%EC%96%B8%EC%A6%88)"
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
